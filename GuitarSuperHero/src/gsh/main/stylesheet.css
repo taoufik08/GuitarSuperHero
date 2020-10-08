@@ -1,0 +1,17 @@
+.root{
+	-fx-background-color: #CDFCFB ;
+	-fx-background-image: url("testa.jpg");
+	-fx-background-size: 100% 100%;
+	
+}
+.label {
+	-fx-text-fill: white;
+	
+	-fx-label-padding:20px;
+}
+.text-area .content {  
+       -fx-background-color: #3b3b3b;
+    } 
+ .text-area { 
+       -fx-text-fill: #ffffff;
+    }  
